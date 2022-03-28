@@ -17,9 +17,9 @@
 # doc/**/*.pdf
 
 
-# 上面举例 
-index.html
+# # 上面举例 
+# index.html
 
-#忽略text文件夹下所有txt
+# #忽略text文件夹下所有txt
 text
 test
